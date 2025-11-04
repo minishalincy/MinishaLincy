@@ -6,6 +6,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ITwXyWOKCIz7hdRUbQ5zN0yOuzy-Wf_8" alt="Your Image Description" width="400" />
+  <img src="https://drive.google.com/uc?export=view&id=1ITwXyWOKCIz7hdRUbQ5zN0yOuzy-Wf_8" alt="Your Image Description" width="1000" height="550" />
 </p>
 
