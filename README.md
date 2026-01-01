@@ -5,3 +5,6 @@
 
 
 [![An image of @minishalincy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/minishalincy)](https://holopin.io/@minishalincy)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
