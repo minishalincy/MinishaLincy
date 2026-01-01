@@ -8,3 +8,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/minishalincy/minishalincy/output/github-contribution-grid-snake.svg)
+
