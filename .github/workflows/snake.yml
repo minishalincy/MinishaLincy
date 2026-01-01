@@ -1,14 +1,14 @@
 name: generate animation
 
+permissions:
+  contents: write
+
 on:
-  # run automatically every day
   schedule:
     - cron: "0 0 * * *"
 
-  # allows manual run
   workflow_dispatch:
 
-  # run on every push to main
   push:
     branches:
       - main
